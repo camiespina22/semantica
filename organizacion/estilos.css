@@ -1,0 +1,40 @@
+header {
+
+    height: 15px;
+    background-color: rgb(218, 157, 179);
+    margin-top: 0px;
+    text-align: center;
+
+}
+
+
+
+main {
+    background-color: #17f3d249;
+padding-top: 5px;
+margin: 0px 200px 0px 200px;
+text-align: center;
+box-shadow: 7px 7px 5px 0px #A274A8;
+}
+
+main img{
+width: 100%;
+
+}
+
+img{
+border-radius: 20px;
+
+}
+header h1{
+font-size: 0.08rem;
+font-weight: 900;
+
+}
+
+body{
+
+    background-color: rgb(18, 0, 36);
+    margin: 0px;
+}
+

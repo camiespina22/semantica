@@ -1,0 +1,53 @@
+#a{
+    background-color: rgb(215, 250, 241);
+    margin: 20PX;
+    padding: 7PX;
+}
+
+#b{
+    background-color: rgb(97, 184, 155);
+    margin: 20PX;
+    padding: 7PX;
+}
+
+#c{
+    background-color: rgb(139, 212, 212);
+    margin: 20PX;
+    padding: 7PX;
+}
+
+#d{
+background-color: rgb(90, 180, 150);
+margin: 20PX;
+padding: 7PX;
+}
+
+#e{
+background-color: rgb(89, 149, 153);
+margin: 20PX;
+padding: 7PX;
+}
+
+#f{
+background-color: rgb(33, 88, 88);
+margin: 20PX;
+padding: 7PX;
+}
+
+#g{
+background-color: rgb(24, 92, 119);
+margin: 20PX;
+padding: 7PX;
+}
+
+main{
+width: 500px;
+display: flex;
+justify-content: center;
+margin: 300px;
+}
+
+body{
+justify-content: center;
+margin: 400px;
+}

@@ -1,0 +1,55 @@
+main {
+    background-color: rgb(166, 193, 243);
+    padding: 80px;
+ 
+    
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+.caja {
+    background-color: aliceblue;
+    width: 500px;
+    margin: 20px;
+    border: #7898 solid 6px;
+    border-radius: 5px;
+
+}
+
+img {
+    width: 100%;
+    height: 500px;
+    border-radius: 5px;
+}
+
+header {
+    text-align: center;
+}
+
+h3 {
+    margin-left: 20px;
+}
+
+p {
+    margin-left: 20px;
+}
+
+/*
+ seleccion los elementos lit del id menu
+ para hacer que la lista sea horizental
+ */
+#menu li {
+    display: inline;
+    padding: 23px;
+    background-color: rgb(230, 222, 222);
+    margin-top: 40px;
+
+}
+.contacto{
+    margin:20px;
+}
+
+input{
+    background-color:#c2e0fd;
+    border-radius:10px;
+}

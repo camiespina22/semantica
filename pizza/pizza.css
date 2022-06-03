@@ -1,0 +1,89 @@
+header{
+    background-color: rgb(185, 253, 255);
+    padding: 10px;
+    justify-content: center;
+    margin: 0px;
+    background-image: url(https://thumbs.dreamstime.com/b/primer-de-una-pizza-italiana-pizza-cl%C3%A1sica-recientemente-cocida-en-un-fondo-de-la-tabla-ingredientes-para-la-pizza-copie-el-97806108.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img{
+   height: 30px; 
+}
+
+main{
+    background-color: rgb(168, 233, 211);
+    height:800px;
+    background-image:url(https://i.etsystatic.com/29590405/r/il/4fc2f5/3116691901/il_fullxfull.3116691901_idhq.jpg) ;
+    background-repeat: no-repeat;
+    background-size: 290vh;
+}
+footer{
+    background-color: rgb(185, 253, 255);
+    padding: 200px;
+    background-image:url(https://thumbs.dreamstime.com/b/vector-hand-drawn-pizza-black-background-sketch-doodle-84169553.jpg) ;
+    background-repeat: no-repeat;
+    background-size: 290vh;
+}
+
+#menu li{
+    display: inline;
+    height: 100px;
+    padding: 3px;
+    background-color: rgb(184, 241, 241);
+    margin: 40px;
+    border-radius: 10%;
+    border: solid;
+    border-color:rgb(35, 238, 238);
+    font-size: 1cm;
+}
+.logo{
+    height: 200px;
+}
+
+#todo{
+    display: flex;
+    margin-bottom: 5px;
+justify-content:column;
+display: grid ;
+}
+#pizzas{
+    display: flex;
+    justify-content: center;
+}
+#cantidad{
+
+    display: flex;
+    justify-content: center;
+
+}
+#cant1, #cant2,#cant3,#cant4{
+    margin-left: 50px;
+}
+#tamaño{
+display: flex;
+justify-content: center;
+}
+
+#gaseosas{
+    display: flex;
+justify-content: center;
+}
+
+#tamaño2{
+    display: flex;
+    justify-content: center;
+}
+
+#entrega{
+    display: flex;
+    justify-content: center;
+}
+#pedir{ display: flex;
+    justify-content: center;
+}
+
+#pedir{
+    margin-top: 10px;
+}

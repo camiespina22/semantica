@@ -1,0 +1,57 @@
+#a{
+    height: 100vh; /* alto */
+    width: 16.6%; /* ancho */
+    background-color: #819CB2;
+    justify-content: center;
+   
+}
+
+#b{
+    height: 100vh;
+    width: 16.6%;
+    background-color: #476ABB;
+    justify-content: center;
+
+}
+
+#c{
+    height: 100vh;
+    width: 16.6%;
+    background-color: #2A4F6E;
+    justify-content: center;
+}  
+
+#d{
+    height: 100vh;
+    width: 16.6%;
+    background-color: #476ABB;
+    justify-content: center;
+    
+}
+
+#e{
+    height: 100vh;
+    width: 16.6%;
+    background-color: #96c5ee;
+    justify-content: center;
+ 
+}
+
+#f{
+    height: 100vh;
+    width: 16.6%;
+    background-color: #1969b4;
+    justify-content: center;
+  
+}
+
+header{
+    background-color: #86b9e6;
+    text-align: center;}
+
+    
+    main{
+        display:flex ;
+        justify-content: center;
+      
+    }
